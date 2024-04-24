@@ -1,0 +1,35 @@
+ body {
+     background-image: url('/src/assets/asteroide.webp');
+     background-size: cover;
+     background-attachment: fixed;
+     background-position: center center;
+ }
+
+ .menu {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     background-color: black;
+     padding: 10px;
+     margin: -8px;
+ }
+
+ .title {
+     color: paleturquoise;
+     font-size: 24px;
+     font-weight: bold;
+ }
+
+ .menu-item {
+     color: #fff;
+     text-decoration: none;
+     font-size: 18px;
+     font-weight: bold;
+     padding: 5px;
+     transition: color 0.3s;
+ }
+
+ .menu-item:hover {
+     color: paleturquoise;
+ }
+

@@ -1,0 +1,49 @@
+.titulo {
+  font-size: 24px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 20px;
+}
+
+ .asteroide-detalhes {
+    background-color: rgba(255, 255, 255, 0.824);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+  }
+
+ 
+  .asteroide-nome {
+    font-size: 20px;
+    font-weight: bold;
+    color: #444;
+  }
+
+  .asteroide-perigoso {
+    font-size: 16px;
+    color: red;
+    margin-top: 10px;
+  }
+
+  .asteroide-diametro {
+    font-size: 16px;
+    color: #666;
+    margin-top: 5px;
+  }
+  
+
+  .asteroide-velocidade {
+    font-size: 16px;
+    color: #666;
+    margin-top: 5px;
+  }
+  
+
+  .asteroide-magnitude {
+    font-size: 16px;
+    color: #666;
+    margin-top: 5px;
+  }
+  
